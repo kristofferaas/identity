@@ -10,6 +10,7 @@
     "dist/**/*"
   ],
   "scripts": {
+    "prepare": "tsc",
     "build": "tsc"
   },
   "devDependencies": {
